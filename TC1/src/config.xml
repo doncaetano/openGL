@@ -1,0 +1,8 @@
+<aplicacao>
+	<janela largura="500" altura="500">
+		<fundo corR="0.5" corG="0.5" corB="0.5"></fundo>
+		<titulo>Meus circulos que arrastam</titulo>
+	</janela>
+	<circulo raio="51" corR="1" corG="1" corB="0"></circulo>
+</aplicacao>
+
